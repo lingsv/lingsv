@@ -1,4 +1,8 @@
-### Hi there 👋
+## Ana Carolina Gomes
+
+### Formada em Letras - Português e Espanhol pela FFLCH/USP
+### Mestre em Linguística pela FFLCH/USP
+### Cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano
 
 
 - 🔭 I’m currently working on chatbot design and Data Visualization
