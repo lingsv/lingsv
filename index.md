@@ -1,4 +1,4 @@
-# Projetos especiais
+![capa](https://github.com/lingsv/lingsv/blob/gh-pages/capa_portifolio.png)
 
 
 
