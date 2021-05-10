@@ -1,7 +1,3 @@
-![capa](https://github.com/lingsv/lingsv/blob/gh-pages/capa_portifolio.png)
-
-
-
 ### NLP
 
 [Workshops de NLP](https://github.com/lingsv/NLP-Workshops)
