@@ -1,4 +1,4 @@
-## Ana Carolina Gomes
+![capa](https://github.com/lingsv/lingsv/blob/master/capa_profile.png)
 
 - 📚 Formada em Letras - Português e Espanhol pela FFLCH/USP
 - 💡 Mestre em Linguística pela FFLCH/USP
@@ -16,5 +16,4 @@
 
 *******************
 
-![tenor1](https://user-images.githubusercontent.com/45212671/99129647-ec2fd780-25ec-11eb-9d09-37b2d676b868.gif)
-
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
