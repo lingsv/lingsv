@@ -11,8 +11,8 @@
 - ⚡ Fun fact: Fotografo também.
 
 ****************************
-[![Ana Carolina's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lingsv&theme=white-green)](https://github.com/lingsv/github-readme-stats)
-[![Ana Carolina's github stats](https://github-readme-stats.vercel.app/api?username=lingsv&theme=white-green)](https://github.com/lingsv/github-readme-stats)
+[![Ana Carolina's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lingsv&theme=dracula&layout=compact)](https://github.com/lingsv/github-readme-stats)
+[![Ana Carolina's github stats](https://github-readme-stats.vercel.app/api?username=lingsv&theme=dracula&show_private=true)](https://github.com/lingsv/github-readme-stats)
 
 *******************
 
