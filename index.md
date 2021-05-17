@@ -1,6 +1,8 @@
 ### NLP
 
-[Workshops de NLP](https://github.com/lingsv/NLP-Workshops)
+* [Workshops de NLP](https://github.com/lingsv/NLP-Workshops)
+* [Curso de Regex e NLP da Alura](https://github.com/lingsv/nlp-modelos-linguagem)
+* [Workshop de NLP - WiDS 2021](https://github.com/lingsv/wids_collaborative_workshop)
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
