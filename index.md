@@ -8,13 +8,17 @@
 
 ### Imersão de dados da Alura
 
-[Imersão](https://github.com/lingsv/imersao_alura_dados)
+* **Imersão de Dados sobre Drug Discovery:**
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/lingsv/imersao_alura_dados)
+
+* **Projeto Final da Imersão:**
+
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/lingsv/imersao-dados-desafio-final)
 
 ### Formação em Data Science da Alura
 
-[Formação DS](https://github.com/lingsv/alura_ds)
+[Pasta com os arquivos](https://github.com/lingsv/alura_ds)
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
