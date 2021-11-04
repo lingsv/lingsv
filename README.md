@@ -6,7 +6,7 @@
 - 🔗 Projetos especiais de Data Science em: https://lingsv.github.io/lingsv/
 *************************
 
-- 🔭 Trabalho com Design de Chatbots e Data Visualization
+- 🔭 Trabalho com Dados e Engenharia de Software
 - 😄 Pronouns: she/her, ela/dela
 - ⚡ Fun fact: Fotografo também.
 
