@@ -1,4 +1,4 @@
-![capa](https://github.com/lingsv/lingsv/blob/master/capa_profile.png)
+![capa](https://github.com/lingsv/lingsv/blob/master/capa.png)
 
 - 📚 Formada em Letras - Português e Espanhol pela FFLCH/USP
 - 💡 Mestre em Linguística pela FFLCH/USP
