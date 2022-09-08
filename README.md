@@ -2,7 +2,7 @@
 
 - 📚 Formada em Letras - Português e Espanhol pela FFLCH/USP
 - 💡 Mestre em Linguística pela FFLCH/USP
-- 💻 Cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano
+- 💻 Formada em Análise e Desenvolvimento de Sistemas na FATEC São Caetano
 - 🔗 Projetos especiais de Data Science em: https://lingsv.github.io/lingsv/
 *************************
 
