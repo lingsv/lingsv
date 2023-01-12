@@ -11,11 +11,7 @@
 - ⚡ Fun fact: Fotografo também.
 
 ****************************
-<div align="center">
-  <a href="https://github.com/lingsv">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingsv&theme=shades-of-purple&layout=compact" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lingsv&theme=shades-of-purple&layout=compact&show_private=true" />
-</div>
+
 <div style="display: inline_block"><br>
  <img align="center" alt="jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
  <img align="center" alt="python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
