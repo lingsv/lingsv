@@ -8,6 +8,15 @@
 - 😄 Pronouns: she/her, ela/dela
 *************************
 
+<center><br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingsv&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lingsv&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lingsv&theme=jolly)
+  </center>
+  
+*************************
+
 <div style="display: inline_block"><br>
  <img align="center" alt="jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
  <img align="center" alt="python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
