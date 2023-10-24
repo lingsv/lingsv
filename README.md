@@ -1,5 +1,3 @@
-![capa](https://github.com/lingsv/lingsv/blob/master/capa.png)
-
 
 - 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC São Caetano
 - 📚 Bacharelado em Letras - Português e Espanhol pela FFLCH/USP
