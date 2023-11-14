@@ -4,7 +4,7 @@
 - 💡 Mestrado em Linguística pela FFLCH/USP
 - 🔗 Projetos de Data Science em: https://lingsv.github.io/lingsv/
 - 🔭 Trabalho com Dados e Engenharia de Software
-- 😄 Pronouns: she/her, ela/dela
+- 😄 Pronomes: she/her, ela/dela
 *************************
 
 <center><br>
