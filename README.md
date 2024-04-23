@@ -1,10 +1,21 @@
-
-- 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC São Caetano
+PT
+---
+- 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul
 - 📚 Bacharelado em Letras - Português e Espanhol pela FFLCH/USP
 - 💡 Mestrado em Linguística pela FFLCH/USP
 - 🔗 Projetos de Data Science em: https://lingsv.github.io/lingsv/
 - 🔭 Trabalho com Dados e Engenharia de Software
 - 😄 Pronomes: she/her, ela/dela
+
+EN
+---
+- 💻 Associate degree - Systems analysis and development at FATEC São Caetano do Sul
+- 📚 Bachelor's degree - Spanish and Portuguese Languages and Literatures at the University of São Paulo
+- 💡 Master's degree - Linguistics at the University of São Paulo
+- 🔗 Data Science projects: https://lingsv.github.io/lingsv/
+- 🔭 Work with Data and Software Engineering
+- 😄 Pronouns: she/her, ela/dela
+
 *************************
 
 <center><br>
