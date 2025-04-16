@@ -4,7 +4,7 @@ PT
 - 📚 Bacharelado em Letras - Português e Espanhol pela FFLCH/USP
 - 💡 Mestrado em Linguística pela FFLCH/USP
 - 🔗 Projetos de Data Science em: https://lingsv.github.io/lingsv/
-- 🔭 Trabalho com Dados e Engenharia de Software
+- 🔭 Trabalho com Engenharia de dados
 - 😄 Pronomes: she/her, ela/dela
 
 EN
@@ -13,18 +13,9 @@ EN
 - 📚 Bachelor's degree - Spanish and Portuguese Languages and Literatures at the University of São Paulo
 - 💡 Master's degree - Linguistics at the University of São Paulo
 - 🔗 Data Science projects: https://lingsv.github.io/lingsv/
-- 🔭 Work with Data and Software Engineering
+- 🔭 Work with Data Engineering
 - 😄 Pronouns: she/her, ela/dela
 
-*************************
-
-<center><br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingsv&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lingsv&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lingsv&theme=jolly)
-  </center>
-  
 *************************
 
 <div style="display: inline_block"><br>
