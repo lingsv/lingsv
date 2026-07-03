@@ -3,7 +3,7 @@ PT
 - 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul
 - 📚 Bacharelado em Letras - Português e Espanhol pela FFLCH/USP
 - 💡 Mestrado em Linguística pela FFLCH/USP
-- 💻 Eszpecialização em Arquitetura de dados na PUC Minas
+- 💻 Especialização em Arquitetura de dados na PUC Minas
 - 🔗 Projetos de Data Science em: https://lingsv.github.io/lingsv/
 - 🔭 Trabalho com Engenharia de dados
 - 😄 Pronomes: she/her, ela/dela
